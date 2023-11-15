@@ -1,0 +1,38 @@
+_repo: An-ivory-trader-in-North-Kenia-b-the-record-of-an-expedition-through-Kikuyu-to-Galla-land-in-__71971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arkell-Hardwick, A. (Alfred)
+    alias: Arkell-Hardwick, Alfred
+    birthdate: 1878
+    deathdate: 1912
+    gutenberg_agent_id: '56480'
+    url: http://www.gutenberg.org/2009/agents/56480
+description: ''
+gutenberg_issued: '2023-10-27'
+identifiers:
+  gutenberg: '71971'
+  lccn: '03025330'
+language: en
+pgterms:marc904: https://archive.org/details/anivorytraderin00hardgoog
+pgterms:marc905: 20200520095401arkellhard
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bLongmans, Green, and Co, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, East -- Description and travel'
+- !lcsh 'Ethnology -- Africa, East'
+- !lcsh 'Rendille (African people)'
+- !lcsh 'Samburu (African people)'
+- !lcc 'DT'
+- GITenberg
+title: 'An ivory trader in North Kenia : $b the record of an expedition through Kikuyu
+  to Galla-land in east equatorial Africa; with an account of the Rendili and Burkeneji
+  tribes'
+url: http://www.gutenberg.org/ebooks/71971
