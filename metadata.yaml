@@ -1,5 +1,8 @@
 _repo: An-ivory-trader-in-North-Kenia-b-the-record-of-an-expedition-through-Kikuyu-to-Galla-land-in-__71971
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71971-h/images/cover.jpg
 creator:
   author:
     agent_name: Arkell-Hardwick, A. (Alfred)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56480'
     url: http://www.gutenberg.org/2009/agents/56480
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71971#An-ivory-trader-in-North-Kenia-b-the-record-of-an-expedition-through-Kikuyu-to-Galla-land-in-_
 gutenberg_issued: '2023-10-27'
 identifiers:
   gutenberg: '71971'
